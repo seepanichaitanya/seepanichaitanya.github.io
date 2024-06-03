@@ -1,6 +1,5 @@
-# imdbClone
-IMDB Clone made using the OMDB API
+# OMDB API MOVIE PROJECT
+A Movie Search website made using the api of OMDB
 
-- Git Repository link: https://github.com/utkarshsingh341/imdbClone
-- Video link: https://youtu.be/anHVWdGtDqQ
-- Hosted link: https://utkarshsingh341.github.io/imdbClone/
+- Git Repository link:https://github.com/seepanichaitanya/seepanichaitanya.github.io
+- Hosted link: https:https://seepanichaitanya.github.io/
